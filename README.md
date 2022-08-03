@@ -2,7 +2,7 @@
 ## Hi I'm Nitai <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 ### Self-taught Full-Stack Web Developer looking for my first foothold in the world of Web development
 
-- 🌱 I’m currently learning more about MERN stack applications
+- 🌱 I’m currently learning nestJS & Apollo graphql.
 - ⚡ Fun fact: I lived in Sweden for 5 years, where I really enjoyed practicing Brazilian jiu-jitsu and snowboarding
 - 💬 Ask me about anything and let's chat!
 
