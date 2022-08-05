@@ -20,7 +20,7 @@
  <br />
  <br />
  
- ### Check out some API and Microservices [projects](https://glitch.com/@NitaiSalem)  
+ ### Check out my latest project - Swappy: A platform which allows users to exchange their homes as means of vacation [Swappy](https://swappy-app.herokuapp.com/)  
   
  📫How to reach me:
  <br /> 
