@@ -20,7 +20,7 @@
  <br />
  <br />
  
- ### Check out my latest project - Swappy: A platform which allows users to exchange their homes as means of vacation [Swappy](https://swappy-app.herokuapp.com/)  
+ ### Check out my latest project - [Swappy](https://swappy-app.herokuapp.com/): A platform which allows users to exchange their homes as means of vacation   
   
  📫How to reach me:
  <br /> 
