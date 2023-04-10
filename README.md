@@ -20,7 +20,7 @@
  <br />
  <br />
  
- ### Check out my latest project - [Swappy](https://swappy.onrender.com/): A platform which allows users to exchange their homes as means of vacation    
+ ### Check out my latest project - [Swappy](https://swappy.cyclic.app): A platform which allows users to exchange their homes as means of vacation    
   
  📫How to reach me:
  <br /> 
